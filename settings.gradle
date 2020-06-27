@@ -1,2 +1,2 @@
-include ':app', ':admob-adapter'
+include ':app', ':admob-adapter', ':facebook-adapter'
 rootProject.name='jitpackSample'
